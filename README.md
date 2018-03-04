@@ -1,2 +1,2 @@
-# microshell
+# Microshell
 PHP Project
